@@ -1,0 +1,17 @@
+<resources>
+    <string name="subscription_cannot_sync_from_googleplay">GooglePlayからの情報を同期できません。インターネット接続があり、GooglePlayアカウントにサインインしていることを確認してください。</string>
+    <string name="subscription_none_or_sync_error">定期購入したサブスクリプションがないか、現在サブスクリプションの状態を確認できません。インターネット接続があり、このサブスクリプションを購入したGooglePlayアカウントにサインインしていることを確認してください。</string>
+    <string name="subscription_available">既にプレミアムサブスクリプションを定期購入しています。</string>
+    <string name="subscription_cancel_in_googleplay">このサブスクリプションは既に定期購入されています。解約するには、Google Play ストア アプリを使用してください。</string>
+    <string name="subscription_have_other_existing_one">既に他のサブスクリプションを定期購入しています。このサブスクリプションを定期購入する場合は、まずGoogle Play ストア アプリから現在購入中のサブスクリプションを解約してください。</string>
+    <string name="premium_subscription_title">OmniGIF プレミアムサブスクリプション</string>
+    <string name="premium_subscription_content">OmniGIF プレミアムを定期購入すると、広告を削除して、すべての機能に無制限にアクセスできます。</string>
+    <string name="ad_disable_promotion">広告を削除</string>
+    <string name="ad_click_promotion">タップして広告を見ることは、アプリ開発者をサポートするためのアクションです。このアプリをサポートするユーザーの広告の頻度は減少します。</string>
+
+    <string name="subscription_quarterly_name">四半期プレミアムサブスクリプション</string>
+    <string name="subscription_quarterly_desc">3か月間のプレミアム。すべての機能を使用可能、広告なし。</string>
+    <string name="subscription_yearly_name">年間プレミアムサブスクリプション</string>
+    <string name="subscription_yearly_desc">1年間のプレミアム。すべての機能を使用可能、広告なし。</string>
+    <string name="promotion_pro_app">OmniGIFプロアプリ。永続的にすべての機能を使用可能、広告なし</string>
+</resources>

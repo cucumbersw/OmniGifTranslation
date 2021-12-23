@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string-array name="color_theme_options">
+        <item>ライト</item>
+        <item>ダーク</item>
+        <item>システム設定に従う</item>
+    </string-array>
+
+    <string-array name="pager_transform_options">
+        <item>デプス</item>
+        <item>スタック</item>
+        <item>スライド</item>
+        <item>フェード</item>
+    </string-array>
+
+    <string-array name="gallery_top_level_visible_rows_options">
+        <item>1行アイテムを表示</item>
+        <item>2行アイテムを表示</item>
+        <item>3行アイテムを表示</item>
+        <item>4行アイテムを表示</item>
+        <item>5行アイテムを表示</item>
+        <item>トップ画面にすべてのアイテムを表示</item>
+    </string-array>
+
+    <string name="op_zoom_in_out">ズームインとズームアウト</string>
+    <string name="op_play_pause">再生と一時停止の切り替え</string>
+
+    <string-array name="swipe_to_close_edge_size_options">
+        <item>下端</item>
+        <item>画面下部10%</item>
+        <item>画面下部20%</item>
+        <item>画面下部30%</item>
+        <item>画面下部50%</item>
+        <item>全画面</item>
+    </string-array>
+
+    <string-array tools:ignore="TypographyFractions" name="progress_control_gesture_area_options">
+        <item>画面下部1/5</item>
+        <item>画面下部1/4</item>
+        <item>画面下部1/3</item>
+        <item>画面下部2/5</item>
+        <item>画面下部1/2</item>
+    </string-array>
+
+    <string-array name="mute_play_options">
+        <item>しない</item>
+        <item>保護されたコンテンツのみ</item>
+        <item>常に</item>
+        <item>ミュートして開始し音量ボタンでミュートを解除</item>
+    </string-array>
+
+    <string-array name="pref_slideshow_loop_options">
+        <item >1回再生</item>
+        <item >2回再生</item>
+        <item >3回再生</item>
+        <item >5回再生</item>
+        <item >10回再生</item>
+        <item >\>=10秒</item>
+        <item >\>=20秒</item>
+        <item >\>=30秒</item>
+        <item >\>=60秒</item>
+        <item >\>=120秒</item>
+    </string-array>
+
+    <string-array name="pref_static_image_duration_options">
+        <item >3秒</item>
+        <item >5秒</item>
+        <item >8秒</item>
+        <item >10秒</item>
+        <item >20秒</item>
+        <item >30秒</item>
+    </string-array>
+
+    <string-array name="unify_playback_setting_options">
+        <item>コマ落ちなし</item>
+        <item>白背景</item>
+        <item>スケール</item>
+        <item>速さ</item>
+        <item>上下反転</item>
+        <item>左右反転</item>
+    </string-array>
+
+    <string-array name="replay_operation_usage_options">
+        <item >自動</item>
+        <item >巻き戻し1秒</item>
+        <item >巻き戻し3秒</item>
+        <item >巻き戻し5秒</item>
+        <item >巻き戻し10秒</item>
+        <item >巻き戻し15秒</item>
+        <item >巻き戻し30秒</item>
+        <item >最初から再生</item>
+    </string-array>
+
+    <string-array name="forward_operation_usage_options">
+        <item >自動</item>
+        <item >早送り1秒</item>
+        <item >早送り3秒</item>
+        <item >早送り5秒</item>
+        <item >早送り10秒</item>
+        <item >早送り15秒</item>
+        <item >早送り30秒</item>
+    </string-array>
+
+</resources>

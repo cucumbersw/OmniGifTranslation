@@ -1,0 +1,11 @@
+<resources>
+    <string name="check_license">ライセンスチェック</string>
+    <string name="license_check_failed">ライセンスチェックに失敗しました</string>
+    <string name="license_notification">
+        <![CDATA[
+            <p><b>OmniGIF PRO</b>アプリケーションは、<a href="https://play.google.com/store/apps/details?id=com.robin.huangwei.gifviewer"><b>GooglePlayストア</b></a>からのみダウンロードおよびインストールすることができます。このデバイス上の個人的なデータを保護する為に、違法なアプリケーションの使用を中止してください。</p>"
+            <div />
+            <p>既に当アプリケーションを購入されている場合は、<u>インターネット接続が可能であること</u>を確認し、<u>当アプリケーション購入時に使用したGoogleアカウントにログイン</u>してください。</p>
+        ]]>
+    </string>
+</resources>

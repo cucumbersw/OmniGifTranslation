@@ -1,0 +1,88 @@
+<resources>
+    <string name="title_activity_edit">エンコードと編集</string>
+    <string name="discard">破棄</string>
+    <string name="save">保存</string>
+
+    <string name="scaled_size_value">出力サイズ [%1$.2f%%] : %2$d x %3$d</string>
+    <string name="width_value">幅 : %1$d</string>
+    <string name="height_value">高さ : %1$d</string>
+    <string name="crop_left_value">左 : %1$d</string>
+    <string name="crop_top_value">上 : %1$d</string>
+    <string name="crop_right_value">右 : %1$d</string>
+    <string name="crop_bottom_value">下 : %1$d</string>
+
+    <string name="caption_input_hint">ここにキャプションを入力</string>
+    <string name="caption_font_size">フォントサイズ : </string>
+    <string name="caption_font_color">テキストカラー : </string>
+    <string name="caption_outline_width">境界線の幅 : </string>
+    <string name="caption_outline_color">境界線の色 : </string>
+    <string name="caption_bottom_padding">下余白 : </string>
+
+    <string name="automatic">自動</string>
+    <string name="sample_interval">サンプリング間隔 : %1$d ms</string>
+    <string name="frame_duration">デュレーション : %1$d ms</string>
+    <string name="encoding_force_re_encode">エンコード</string>
+    <string name="encoding_max_color">色数 : %1$s</string>
+    <string name="encoding_forward_and_backward">順再生+逆再生(ファイルサイズ2倍)</string>
+    <string name="encoding_grayscale">グレースケール</string>
+    <string name="encoding_reverse">逆再生</string>
+    <string name="encoding_flip">反転 :</string>
+    <string name="encoding_rotate">回転 :</string>
+    <string name="encoding_lossy_compress">非可逆圧縮</string>
+    <string name="encoding_dither">ディザリング :</string>
+    <string name="encoding_quantizer">減色方式 :</string>
+    <string name="encoding_quality">品質 :</string>
+    <string name="encoding_fast_encode">高速エンコード</string>
+    <string name="encoding_engine">エンコードエンジン :</string>
+    <string name="encoding_optimize">最適化 :</string>
+    <string name="edit_watermark">透かしを変更</string>
+    <string name="edit_watermark_blank_hint">透かしのテキスト(なし)</string>
+    <string name="output_task_canceled">出力タスクがキャンセルされました</string>
+    <string name="output_item_abandoned">出力結果は破棄されました</string>
+
+    <string name="gif_merge_description">GIFを結合するには、メニューボタン \'⊕\' をタップして少なくとも2つのファイルを追加してください。スワイプしてアイテムを削除したり、ドラッグハンドルを押したまま動かしてアイテムの順序を変更したりできます。</string>
+    <string name="gif_encode_edit_desc">動画をGIFにエンコードしたり、既存のGIFファイルを編集したりするには、ギャラリーまたはファイルブラウザでアイテムを長押しして、編集ボタンを選択してください。</string>
+    <string name="gif_merge_output_size">出力画像サイズ</string>
+    <string name="gif_merge_output_size_combine">リサイズはせず、すべてのGIFのうちで最大の幅と高さを使用して出力します。</string>
+    <string name="gif_merge_output_size_unified">すべてのGIFを同じサイズにリサイズします。縦横比が変更される場合があります。</string>
+    <string name="gif_frame_edit_description">GIFのフレームを編集するには、初めに \'⊕\' をタップしてファイルを選択してください。フレームを削除したり、各フレームの間隔やキャプションを変更することができます。長押ししてスクロールすると、高速で複数選択ができます。</string>
+
+    <string name="change_frame_duration">選択したフレームのデュレーションを設定</string>
+    <string name="change_frame_caption">選択したフレームにキャプションを設定</string>
+    <string name="failed_to_save_merged">結合されたファイルの保存に失敗しました</string>
+    <string name="failed_to_save_modified">変更されたフレームの保存に失敗しました</string>
+
+    <string name="cannot_read_selected_file">選択したファイルを読み込みできません</string>
+    <string name="cannot_decode_selected_file">選択したファイルをデコードできません</string>
+    <string name="failed_to_extract_frames">フレームの抽出に失敗しました: %1$s</string>
+    <string name="failed_to_save_modifications">変更の保存に失敗しました: %1$s</string>
+
+    <string name="encoding">エンコードしています…</string>
+    <string name="encoding_progress">フレーム番号%1$dをエンコードしています</string>
+    <string name="canceled">キャンセルされました</string>
+    <string name="internal_encoding_error">内部エンコードエラー</string>
+    <string name="extracting_progress">%1$d / %2$d を抽出しています</string>
+    <string name="processing_progress">%1$d / %2$d を処理しています</string>
+    <string name="completed">完了しました</string>
+    <string name="no_modification_has_been_made">変更は行われていません</string>
+
+    <string-array name="flip_entries">
+        <item>なし</item>
+        <item>水平方向に反転</item>
+        <item>垂直方向に反転</item>
+    </string-array>
+
+    <string-array name="rotate_entries">
+        <item>なし</item>
+        <item>90°回転</item>
+        <item>180°回転</item>
+        <item>270°回転</item>
+    </string-array>
+
+    <string-array name="optimize_entries">
+        <item>なし</item>
+        <item>レベル 1</item>
+        <item>レベル 2</item>
+        <item>レベル 3</item>
+    </string-array>
+</resources>

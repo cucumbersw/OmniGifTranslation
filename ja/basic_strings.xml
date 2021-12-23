@@ -1,0 +1,146 @@
+<resources>
+    <string name="ok">OK</string>
+    <string name="done">完了</string>
+    <string name="close">閉じる</string>
+    <string name="back">戻る</string>
+    <string name="next">次</string>
+    <string name="cancel">キャンセル</string>
+    <string name="help">ヘルプ</string>
+    <string name="add">追加</string>
+    <string name="rename">リネーム</string>
+    <string name="warning">警告</string>
+    <string name="error">エラー</string>
+    <string name="verify">確認</string>
+    <string name="loading">ロード中…</string>
+    <string name="processing">処理中…</string>
+    <string name="saving">保存しています…</string>
+
+    <string name="menu_internet">インターネット</string>
+    <string name="menu_media_gallery">ギャラリー</string>
+    <string name="menu_photo_gallery">写真</string>
+    <string name="menu_favorite_gallery">お気に入り</string>
+    <string name="menu_private_gallery">プライベート</string>
+    <string name="menu_file_explorer">ファイルブラウザ</string>
+    <string name="menu_trash_can">ゴミ箱</string>
+    <string name="menu_merge_gifs">GIFファイルを結合</string>
+    <string name="menu_edit_frame">フレームを編集</string>
+    <string name="menu_settings">設定</string>
+    <string name="menu_about">このアプリについて</string>
+    <string name="menu_subscription">サブスクリプション</string>
+    <string name="fragment_title_add_subreddit_by_name">SubRedditを追加</string>
+
+    <string name="need_grant_permission">この機能はストレージにアクセスする必要があります。アプリに要求された権限を許可してください。許可しない場合、正常に動作しない可能性があります。</string>
+    <string name="finish_paste_first">最初に貼り付けを終了またはキャンセルしてください。</string>
+    <string name="paste_not_in_original_folder">選択したアイテムを元のフォルダに貼り付けることはできません。</string>
+    <string name="paste_in_single_folder">選択したアイテムを貼り付けたいフォルダに入ってください。</string>
+    <string name="delete_file_fail">一つまたは複数のファイルを削除できません。</string>
+    <string name="rename_file_failed">一つまたは複数のファイルをリネームできません。</string>
+
+    <string name="action_settings">設定</string>
+
+    <string name="set_as_home">ホームに設定</string>
+    <string name="new_folder">新規フォルダ</string>
+    <string name="refresh">再読み込み</string>
+    <string name="info">情報</string>
+    <string name="sort">並び替え</string>
+    <string name="sort_by_default">デフォルト</string>
+    <string name="sort_by_name_ascend">名前 ↑</string>
+    <string name="sort_by_name_descend">名前 ↓</string>
+    <string name="sort_by_date_ascend">日付 ↑</string>
+    <string name="sort_by_date_descend">日付 ↓</string>
+    <string name="sort_by_size_ascend">サイズ ↑</string>
+    <string name="sort_by_size_descend">サイズ ↓</string>
+    <string name="click_again_to_exit">もう一度タップするとアプリを閉じます</string>
+    <string name="request_storage_access">ストレージへのアクセスを要請</string>
+    <string name="release_storage_access">ストレージへのアクセスを解除</string>
+    <string name="settings">設定</string>
+    <string name="edit">編集</string>
+    <string name="delete">削除</string>
+    <string name="restore">元に戻す</string>
+    <string name="move_private">プライベートに移動する</string>
+    <string name="unlock">アンロック</string>
+    <string name="add_favorite">お気に入りに追加</string>
+    <string name="remove_favorite">お気に入りから削除</string>
+    <string name="set_wallpaper">壁紙に設定</string>
+    <string name="preview">プレビュー</string>
+    <string name="cut">切り取り</string>
+    <string name="copy">コピー</string>
+    <string name="paste">貼り付け</string>
+    <string name="select_all">すべて選択</string>
+    <string name="select_range">範囲選択</string>
+    <string name="add_to_library">ライブラリに追加</string>
+    <string name="add_item_to_favorite">選択したアイテムをお気に入りに追加しますか？</string>
+    <string name="remove_item_from_favorite">選択したアイテムをお気に入りから削除しますか？</string>
+    <string name="move_item_to_private">選択したアイテムをプライベート(他のアプリでは非表示)に移動しますか？</string>
+    <string name="unlock_item_from_private">選択したアイテムをプライベートから戻しますか？</string>
+    <string name="delete_item_permanently">選択したアイテムを”完全に”削除しますか？この操作は取り消しできません。</string>
+    <string name="delete_items_copied_to_private">アイテムがプライベートにコピーされました。データベースから削除しますか？</string>
+    <string name="items_moved_out_of_private">アイテムはプライベートから移動されました。</string>
+
+    <string name="white_background">白背景</string>
+    <string name="mirror">左右反転</string>
+    <string name="flip">上下反転</string>
+    <string name="frame_by_frame">コマ落ちなし</string>
+    <string name="anti_aliasing">アンチエイリアス</string>
+
+    <string name="content_detailed_info">解像度: %1$d x %2$d%3$s\nファイルサイズ: %4$s\n再生時間: %5$s\nフレームレート: %6$s</string>
+    <string name="unsupported_file">再生できません。: サポートされていないファイルの種類です。</string>
+    <string name="saved_at_path">%1s に保存されました。</string>
+    <string name="cannot_save">アイテムを保存できません。</string>
+
+    <string name="prepare_downloading">ダウンロードを準備しています…</string>
+    <string name="parsing_video_url">動画のURLを解析しています…</string>
+
+    <string name="delete_web_source">\'%1$s\' を削除しますか？</string>
+    <string name="search_subreddit">SubRedditを検索</string>
+    <string name="reddit_link_filter">GIF/動画だけを表示</string>
+    <string name="reddit_link_filter_on_confirmation">フィルタが有効になっている場合、GIF/動画のリンクのみが表示されます。</string>
+    <string name="reddit_link_filter_off_confirmation">フィルタが無効になっている場合、すべてのリンクが表示され、サポートされていないリンクがブラウザによって開かれます。 </string>
+    <string name="add_subreddit_by_name">名前でSubRedditを追加</string>
+    <string name="input_subreddit_name">SubRedditの名前を入力</string>
+    <string name="verify_and_add">検証して追加</string>
+    <string name="safe_search">セーフサーチ</string>
+    <string name="sign_in_to_get_more_results">サインインしてより多くの結果を得る</string>
+    <string name="input_keyword_to_start_search">キーワードを入力して検索を開始してください。</string>
+    <string name="loading_in_progress_try_later">読み込み中です。しばらくたってからもう一度お試しください。</string>
+
+    <string name="request_app_home_dir">ダウンロードしたコンテンツやプライベートなコンテンツ、編集したコンテンツを保存する為のホームフォルダが設定されていません。最初に設定してください。\n以前にこのアプリを使用したことがある場合は、既存のホームフォルダを使用して、保存済み/プライベートのすべてのコンテンツに引き続きアクセスできます。\nヘルプボタンをタップしてYouTubeのショートビデオガイドをご覧ください。</string>
+    <string name="set_directory_as_home">選択したフォルダをこのアプリケーションのホームディレクトリとして設定しますか？\n今後ダウンロード/プライベート/編集したコンテンツはこのフォルダに保存されます。</string>
+
+    <string name="private_content_can_be_protected">デバイスロックを設定すると、コンテンツを本人確認で保護できます。</string>
+    <string name="private_content_is_protected">コンテンツは保護されています。</string>
+    <string name="private_content_is_protected_desc">コンテンツを表示する為に、本人確認を行う必要があります。</string>
+    <string name="private_folder_no_op_allowed">プライベートフォルダでの操作は許可されていません。他のアプリで変更すると、データが失われる可能性があります。</string>
+    <string name="private_item_unlock_confirm">選択したアイテムをプライベートから移動しますか？(このアプリのホームディレクトリ内の対応するフォルダに移動され、ギャラリーや他のアプリケーションで表示されるようになります。)</string>
+    <string name="file_explorer_header_request_access">タップしてデバイスのストレージにアクセス可能なフォルダを追加</string>
+    <string name="file_explorer_header_normal_title">デバイスストレージのアクセス可能なフォルダ</string>
+    <string name="cannot_request_document_tree_access">このデバイス内のフォルダへのアクセスをリクエストできません。ファイルマネージャアプリが正しくインストールされているかどうかを確認してください。</string>
+    <string name="revoke_folder_access_permission">選択したフォルダへのアクセス許可を取り消しますか？\nアクセス許可を取り消すと、フォルダは削除されず、単にこのアプリから削除されます。 </string>
+    <string name="scan_media_items">Androidシステムは、メディアライブラリに追加するアイテムをスキャンします…</string>
+    <string name="delete_empty_folders">空のフォルダを削除</string>
+    <string name="delete_empty_folders_confirm">現在のディレクトリの空のフォルダを削除しますか？</string>
+
+    <string name="no_folder_blocked_notice">現在ブロックされているフォルダはありません。フォルダを除外するには、ギャラリーを開いてアイテムがパスでグループ化されていることを確認し、フォルダのタイトルを長押ししてブロックボタンをタップしてください。</string>
+    <string name="block_folder_path">ブロックされたパス</string>
+    <string name="block_selected_folders">選択したフォルダをブロックする</string>
+    <string name="save_modified_path">変更されたパスを保存</string>
+    <string name="block_parent_folder">親フォルダをブロックする</string>
+    <string name="remove_blocked_path">ブロックされたパスを削除する</string>
+    <string name="valid_speed_value_range">速度: 0.125 ~ 8.0</string>
+    <string name="invalid_number">無効な数値</string>
+
+    <string name="no_accessible_dir_msg">***重要なお知らせ***\n\n\nAndroidではアプリのストレージアクセスが制限されています。\n新しくアップグレードされたアプリでは、ストレージアクセスフレームワークAPIを使用する必要があります。上の \'⊕\' ボタンをタップしてシステムファイルマネージャを開き、このアプリにアクセスを許可する対象のフォルダを選択してください。\n\n以前にこのアプリを使用したことがある場合は、システムファイルマネージャから以前のホームフォルダを探した方が良いでしょう。対象のフォルダを開き、下にあるアクセス許可ボタンをタップして、許可リクエストを承認します。\n\nその後、アイテムを長押しして [ホームボタン] を選択し、このアプリのホームフォルダにする必要があります。この方法でのみ、以前に保存したプライベートアイテムにアクセスできます。\n\n一部のAndroidデバイスでは、内部ストレージ内のすべてのフォルダを表示できない場合があります。内部ストレージ全体を表示するには、システムファイルマネージャのオプションメニューをタップし、左のドロワーメニューから選択してください。\n\n古いホームフォルダを新しい場所に移行するには、システムファイルマネージャを使用してフォルダ全体を目的の場所に移動してください。そして、このアプリでそのフォルダをホームとして設定します。</string>
+    <string name="no_private_content_msg">現在表示されるプライベートコンテンツはありません。\n\nギャラリーからコンテンツを選択し、ロックボタンを選択してプライベートにすることができます。\n\n以前、プライベートコンテンツがあった場合は、ファイルブラウザでこのアプリの正しいホームディレクトリを設定していることを確認してください。</string>
+    <string name="no_favourite_content_msg">現在表示されるお気に入りのコンテンツはありません。\n\nギャラリーからコンテンツを選択し、お気に入りボタンを選択して、お気に入りのコンテンツとして保存できます。</string>
+
+
+    <string name="scale_mode">配置モード</string>
+    <string name="scale_mode_stretch_fit">画面に合わせて伸縮</string>
+    <string name="scale_mode_center_crop">比率を保持して画面に外接</string>
+    <string name="scale_mode_center_fit">比率を保持して画面に内接</string>
+    <string name="wallpaper_setting_canceled">ライブ壁紙の設定をキャンセルしました…</string>
+    <string name="wallpaper_setting_completed">ライブ壁紙の設定を更新しました。</string>
+    <string name="wallpaper_setting_manually">ライブ壁紙の設定を開くことができません。ホーム画面の空白部分を長押しして、壁紙設定に移動してください。そして、ライブ壁紙の設定からこのアプリを選択します。</string>
+    <string name="set_wallpaper_notice">選択したアイテムを壁紙として使用するには、ライブ壁紙の設定でそのアイテムを適用します。壁紙として設定しているコンテンツを移動/リネーム/削除しないでください。移動/リネーム/削除してしまうと、正常に動作させるために壁紙を再設定しなければならなくなります。\n\n警告：\n壁紙として動画またはアニメーションを使用すると、消費電力が増加します。\n\nまた、性能上の制限により、動画の壁紙は画面中央に収まるように拡大縮小することができません。壁紙として使用する前に、画面サイズに合わせてコンテンツを編集することをお勧めします。</string>
+    <string name="wallpaper_invalid_msg">壁紙のコンテンツが無効であるか、まだ設定されていません。\nこのアプリでギャラリーを開き、長押しして動画またはアニメーションを選択し、アクションメニューで \'壁紙として設定\' を選択してください。</string>
+</resources>
