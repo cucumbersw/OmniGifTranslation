@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">GIF Player - OmniGIF</string>
+
+    <string name="short_desc">OmniGIF - your best Android GIF/APNG/WEBP animation player!</string>
+
+    <string name="full_desc">
+        OmniGIF is your best Android GIF player, maker and editor.
+
+        OmniGIF is also your best choice for playing APNG (animated PNG) and animated WEBP on Android, you just need to enable it in the settings menu.
+
+        With OmniGIF, you can:
+        ◆ Easily mange your GIFs, video clips and photos.
+            • Browse your media database in a fancy gallery mode
+            • Navigate device storage with a handy file explorer
+            • Hide private files secretly to hide them from other application
+            • Label your favorite item to find them easily later
+        ◆ Play your content with plenty of options:
+            • Fast and slow playback
+            • Play forward and backward
+            • Frame by frame playing
+            • Zoom in and out, and panning freely
+            • Slide show with mixed GIF, video and static images
+            • Share your GIF, video or photo to Facebook, Twitter, Instagram, Messenger, Line, WhatsApp, Gmail and any other applications
+            • Set your cool GIF or video as wallpaper of your device
+        ◆ Edit your GIFs or create new GIF from your video clip
+            • Resizing and cropping
+            • Trimming and resampling
+            • Add caption and watermark
+            • Many other color/encoding options
+            • Optimizing to shrink file size to use it as emoji and send it to your Facebook, Twitter,, Messenger, Line friends.
+        ◆ Navigate popular Internet GIF/video resources
+            • OmniGIF provides a nice Reddit explorer
+            • You can search or add a SubReddit by its name
+            • More online GIF websites will be supported in future
+
+        There are also plenty of additional options which can help you tune this application to serve your at its best.
+    </string>
+
+</resources>

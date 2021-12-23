@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string-array name="color_theme_options">
+        <item>Day Light</item>
+        <item>Dark Night</item>
+        <item>Follow System Settings</item>
+    </string-array>
+
+    <string-array name="pager_transform_options">
+        <item>Depth</item>
+        <item>Stack</item>
+        <item>Slide</item>
+        <item>Fade</item>
+    </string-array>
+
+    <string-array name="gallery_top_level_visible_rows_options">
+        <item>Display 1 row of items</item>
+        <item>Display 2 rows of items</item>
+        <item>Display 3 rows of items</item>
+        <item>Display 4 rows of items</item>
+        <item>Display 5 rows of items</item>
+        <item>Display all items on top level</item>
+    </string-array>
+
+    <string name="op_zoom_in_out">Zoom in and zoom out</string>
+    <string name="op_play_pause">Toggle play and pause</string>
+
+    <string-array name="swipe_to_close_edge_size_options">
+        <item>Bottom Edge</item>
+        <item>Bottom 10% of screen</item>
+        <item>Bottom 20% of screen</item>
+        <item>Bottom 30% of screen</item>
+        <item>Bottom 50% of screen</item>
+        <item>Full screen</item>
+    </string-array>
+
+    <string-array tools:ignore="TypographyFractions" name="progress_control_gesture_area_options">
+        <item>Bottom 1/5 of the screen</item>
+        <item>Bottom 1/4 of the screen</item>
+        <item>Bottom 1/3 of the screen</item>
+        <item>Bottom 2/5 of the screen</item>
+        <item>Bottom 1/2 of the screen</item>
+    </string-array>
+
+    <string-array name="mute_play_options">
+        <item>Never</item>
+        <item>Protected contents only</item>
+        <item>Always</item>
+        <item>Muted start &amp; unmute with volume key</item>
+    </string-array>
+
+    <string-array name="pref_slideshow_loop_options">
+        <item >play 1 time</item>
+        <item >play 2 times</item>
+        <item >play 3 times</item>
+        <item >play 5 times</item>
+        <item >play 10 times</item>
+        <item >\>= 10 seconds</item>
+        <item >\>= 20 seconds</item>
+        <item >\>= 30 seconds</item>
+        <item >\>= 60 seconds</item>
+        <item >\>= 120 seconds</item>
+    </string-array>
+
+    <string-array name="pref_static_image_duration_options">
+        <item >3s</item>
+        <item >5s</item>
+        <item >8s</item>
+        <item >10s</item>
+        <item >20s</item>
+        <item >30s</item>
+    </string-array>
+
+    <string-array name="unify_playback_setting_options">
+        <item>frame-by-frame</item>
+        <item>white-background</item>
+        <item>scale</item>
+        <item>speed</item>
+        <item>flip</item>
+        <item>mirror</item>
+    </string-array>
+
+    <string-array name="replay_operation_usage_options">
+        <item >Auto</item>
+        <item >Replay 1s</item>
+        <item >Replay 3s</item>
+        <item >Replay 5s</item>
+        <item >Replay 10s</item>
+        <item >Replay 15s</item>
+        <item >Replay 30s</item>
+        <item >Restart</item>
+    </string-array>
+
+    <string-array name="forward_operation_usage_options">
+        <item >Auto</item>
+        <item >Forward 1s</item>
+        <item >Forward 3s</item>
+        <item >Forward 5s</item>
+        <item >Forward 10s</item>
+        <item >Forward 15s</item>
+        <item >Forward 30s</item>
+    </string-array>
+
+</resources>

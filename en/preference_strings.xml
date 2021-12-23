@@ -1,0 +1,66 @@
+<resources>
+    <string name="pref_category_display">Display</string>
+    <string name="pref_color_theme">Color theme</string>
+    <string name="pref_keep_screen_on_when_playing">Keep screen on when playing</string>
+    <string name="pref_keep_screen_on_when_playing_summ">Prevent the screen from being turned off during GIF playback</string>
+    <string name="pref_larger_play_control_btns">Large play control buttons</string>
+    <string name="pref_larger_play_control_btns_summ">Make the playback control buttons easier to be clicked</string>
+    <string name="pref_page_view">Page view when playing</string>
+    <string name="pref_page_view_summ">Swipe left/right to switch to previous/next content during playback</string>
+    <string name="pref_page_transform">Transformation between page slides</string>
+    <string name="pref_slideshow_transition">Slideshow transition</string>
+    <string name="pref_slideshow_transition_summ_on">Same as page sliding transition</string>
+    <string name="pref_slideshow_transition_summ_off">Disabled (No transition)</string>
+
+    <string name="pref_category_browse">Browse</string>
+    <string name="pref_gallery_top_level_visible_rows">Number of items visible on the top level of gallery view</string>
+    <string name="pref_browse_file_types">Types of file visible in gallery</string>
+    <string name="pref_blocked_path_title">Blocked folders</string>
+    <string name="pref_blocked_path_desc">%1$d folder(s) blocked from gallery</string>
+    <string name="pref_block_child_folder_title">Block sub directories</string>
+    <string name="pref_block_child_folder_desc">If a folder is blocked, its sub directories will also be blocked</string>
+
+    <string name="pref_category_security">Security</string>
+    <string name="pref_content_protection">Content protection</string>
+    <string name="pref_content_protection_dependency">To secure protected contents, please go to system settings to setup device lock first</string>
+    <string name="pref_content_protection_summ">Use device lock to secure protected contents</string>
+
+    <string name="pref_category_behavior">Behavior</string>
+    <string name="pref_back_twice_to_quit">Press BACK twice to exit</string>
+    <string name="pref_back_twice_to_quit_summ">Avoid closing app unintentionally if back button is clicked accidentally</string>
+    <string name="pref_choose_save_path">Confirm where to save item</string>
+    <string name="pref_choose_save_path_summ_on">User has to navigate and select a folder to save the item</string>
+    <string name="pref_choose_save_path_summ_off">Item will be saved to the default path based on its origin</string>
+    <string name="pref_show_delete_when_play">Show delete button on player</string>
+    <string name="pref_show_delete_when_play_summ">Allow deleting content during playback</string>
+    <string name="pref_double_tap_gesture_op">Action when double tapping player</string>
+    <string name="pref_swipe_to_close_summ">Swipe from the bottom of player to exit playback</string>
+    <string name="pref_swipe_to_close">Swipe-to-close gesture</string>
+    <string name="pref_swipe_to_close_edge_size">Gesture area for swipe-to-close</string>
+    <string name="pref_extended_gesture_summ">Controlling gestures for adjusting brightness, volume, speed and media progress</string>
+    <string name="pref_extended_gesture">Extended gesture control</string>
+    <string name="pref_progress_control_gesture_area">Gesture area for progress control</string>
+    <string name="pref_show_gesture_tutorial">Extended gesture tutorial</string>
+    <string name="pref_show_gesture_tutorial_summ">Show how to use gesture to adjust brightness, volume, speed and progress on next playback</string>
+
+    <string name="pref_category_playback">Playback</string>
+    <string name="pref_video_auto_play_summ">Play video automatically when switching view pagers</string>
+    <string name="pref_video_auto_play">Automatically start video playback</string>
+    <string name="pref_mute_play">Mute audio during playback</string>
+    <string name="pref_shuffle_slideshow">Shuffle play</string>
+    <string name="pref_shuffle_slideshow_summ">Shuffle the playlist of slideshow</string>
+    <string name="pref_slideshow_loops">Loops or duration of playback during slideshow</string>
+    <string name="pref_static_image_duration">Static image "duration"</string>
+    <string name="pref_auto_rotate">Rotate content automatically</string>
+    <string name="pref_auto_rotate_summ">Change display orientation based on the aspect ratio</string>
+    <string name="pref_keep_screen_orientation">Keep screen orientation</string>
+    <string name="pref_keep_screen_orientation_summ_on">When click rotate button, rotate image instead of screen</string>
+    <string name="pref_keep_screen_orientation_summ_off">When click rotate button, change screen orientation</string>
+    <string name="pref_keep_audio_pitch">Keep audio pitch</string>
+    <string name="pref_keep_audio_pitch_summ_on">Keep audio pitch unchanged when changing playback speed</string>
+    <string name="pref_keep_audio_pitch_summ_off">Audio pitch will be changed corresponding to playback speed</string>
+    <string name="pref_unify_playback_settings">Unify playback settings</string>
+    <string name="pref_replay_operation_usage">Replay operation usage</string>
+    <string name="pref_forward_operation_usage">Forward operation usage</string>
+    <string name="pref_shortcut_speed_values">Shortcut speed values</string>
+</resources>

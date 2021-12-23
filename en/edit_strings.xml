@@ -1,0 +1,88 @@
+<resources>
+    <string name="title_activity_edit">Encode and Edit</string>
+    <string name="discard">Discard</string>
+    <string name="save">Save</string>
+
+    <string name="scaled_size_value">Output Size [%1$.2f%%] : %2$d x %3$d</string>
+    <string name="width_value">Width : %1$d</string>
+    <string name="height_value">Height : %1$d</string>
+    <string name="crop_left_value">Left : %1$d</string>
+    <string name="crop_top_value">Top : %1$d</string>
+    <string name="crop_right_value">Right : %1$d</string>
+    <string name="crop_bottom_value">Bottom : %1$d</string>
+
+    <string name="caption_input_hint">Input caption text here</string>
+    <string name="caption_font_size">Font size : </string>
+    <string name="caption_font_color">Font color : </string>
+    <string name="caption_outline_width">Outline width : </string>
+    <string name="caption_outline_color">Outline color : </string>
+    <string name="caption_bottom_padding">Bottom padding : </string>
+
+    <string name="automatic">automatic</string>
+    <string name="sample_interval">Sample interval : %1$d ms</string>
+    <string name="frame_duration">Frame duration : %1$d ms</string>
+    <string name="encoding_force_re_encode">Encode</string>
+    <string name="encoding_max_color">Color : %1$s</string>
+    <string name="encoding_forward_and_backward">Forward and backward (2x file size)</string>
+    <string name="encoding_grayscale">Grayscale</string>
+    <string name="encoding_reverse">Reverse</string>
+    <string name="encoding_flip">Flip :</string>
+    <string name="encoding_rotate">Rotate :</string>
+    <string name="encoding_lossy_compress">Lossy compress</string>
+    <string name="encoding_dither">Dither :</string>
+    <string name="encoding_quantizer">Quantizer :</string>
+    <string name="encoding_quality">Quality :</string>
+    <string name="encoding_fast_encode">Fast Encode</string>
+    <string name="encoding_engine">Encode engine :</string>
+    <string name="encoding_optimize">Optimize :</string>
+    <string name="edit_watermark">Change watermark</string>
+    <string name="edit_watermark_blank_hint">Watermark Text (Blank)</string>
+    <string name="output_task_canceled">Output task has been canceled</string>
+    <string name="output_item_abandoned">Output result has been abandoned</string>
+
+    <string name="gif_merge_description">To merge GIFs, click menu button \'⊕\' to add at least 2 files. You can swipe to remove one item or press and hold the drag handle to change the order.</string>
+    <string name="gif_encode_edit_desc">To encode video to GIF or edit an existing GIF file, please long press the item in gallery or file explorer and select the edit action.</string>
+    <string name="gif_merge_output_size">Output image size</string>
+    <string name="gif_merge_output_size_combine">No resizing, output using max width and height of all the GIFs</string>
+    <string name="gif_merge_output_size_unified">Resize all the GIFs to the same size, aspect ratio might be changed</string>
+    <string name="gif_frame_edit_description">To edit frames of a GIF, click \'⊕\' and select a file to start with. You can delete frames, and change each frame\'s interval or caption. Long press and scroll for fast multi-selection.</string>
+
+    <string name="change_frame_duration">Set duration for selected frames</string>
+    <string name="change_frame_caption">Set caption for selected frames</string>
+    <string name="failed_to_save_merged">Failed to save merged file</string>
+    <string name="failed_to_save_modified">Failed to save modified frames</string>
+
+    <string name="cannot_read_selected_file">Cannot read selected file</string>
+    <string name="cannot_decode_selected_file">Cannot decode selected file</string>
+    <string name="failed_to_extract_frames">Failed to extract frames: %1$s</string>
+    <string name="failed_to_save_modifications">Failed to save modifications: %1$s</string>
+
+    <string name="encoding">Encoding…</string>
+    <string name="encoding_progress">Encoding frame No.%1$d</string>
+    <string name="canceled">Canceled</string>
+    <string name="internal_encoding_error">Internal encoding error</string>
+    <string name="extracting_progress">Extracting %1$d / %2$d</string>
+    <string name="processing_progress">Processing %1$d / %2$d</string>
+    <string name="completed">Completed</string>
+    <string name="no_modification_has_been_made">No modification has been made…</string>
+
+    <string-array name="flip_entries">
+        <item>N/A</item>
+        <item>Flip horizontally</item>
+        <item>Flip vertically</item>
+    </string-array>
+
+    <string-array name="rotate_entries">
+        <item>N/A</item>
+        <item>Rotate 90°</item>
+        <item>Rotate 180°</item>
+        <item>Rotate 270°</item>
+    </string-array>
+
+    <string-array name="optimize_entries">
+        <item>N/A</item>
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+    </string-array>
+</resources>

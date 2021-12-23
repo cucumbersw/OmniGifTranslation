@@ -1,0 +1,11 @@
+<resources>
+    <string name="check_license">Check License</string>
+    <string name="license_check_failed">License Check Failed</string>
+    <string name="license_notification">
+        <![CDATA[
+            <p>The <b>OmniGIF PRO</b> application is only eligible to be downloaded and installed from <a href="https://play.google.com/store/apps/details?id=com.robin.huangwei.gifviewer"><b>GooglePlay Store</b></a>. Please stop using any illegal distribution in order to protect your personal data on this device.</p>"
+            <div />
+            <p>If you have already purchased this application, please make sure you have <u>available Internet connection</u> and <u>sign-in the Google account which you used when purchasing this app</u>.</p>
+        ]]>
+    </string>
+</resources>

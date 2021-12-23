@@ -1,0 +1,17 @@
+<resources>
+    <string name="subscription_cannot_sync_from_googleplay">Cannot synchronize information from GooglePlay, please make sure you have Internet connection and signed in your GooglePlay account.</string>
+    <string name="subscription_none_or_sync_error">You have no subscription or your subscription state cannot be determined currently. Please check your Internet connection and make sure you have signed in the GooglePlay account that has made this subscription.</string>
+    <string name="subscription_available">You have already got premium subscription(s).</string>
+    <string name="subscription_cancel_in_googleplay">You have already got this subscription, to cancel it, please use Google PlayStore App.</string>
+    <string name="subscription_have_other_existing_one">You have another existing subscription, if you made this new subscription, please remember to cancel the other one from Google PlayStore.</string>
+    <string name="premium_subscription_title">OmniGIF Premium Subscription</string>
+    <string name="premium_subscription_content">Subscribe to OmniGIF Premium, you can get rid of the AD and have unlimited access to all the features.</string>
+    <string name="ad_disable_promotion">Disable AD</string>
+    <string name="ad_click_promotion">Click and watch AD is a great support to us and we will reduce the AD display frequency for our supporters!\n\nHowever, you should ONLY click the AD that you are interested.</string>
+
+    <string name="subscription_quarterly_name">Quarterly Premium Subscription</string>
+    <string name="subscription_quarterly_desc">3-Month-Premium. Unlimited accessing to all features, no advertisement.</string>
+    <string name="subscription_yearly_name">Yearly Premium Subscription</string>
+    <string name="subscription_yearly_desc">1-Year-Premium. Unlimited accessing to all features, no advertisement.</string>
+    <string name="promotion_pro_app">OmniGIF pro app. Permanent unlimited accessing to all features without any advertisement.</string>
+</resources>
