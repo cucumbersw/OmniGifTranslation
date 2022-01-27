@@ -35,6 +35,7 @@
     <string name="paste_in_single_folder">Please enter a single folder to paste selected items…</string>
     <string name="delete_file_fail">One or more files cannot be deleted…</string>
     <string name="rename_file_failed">One or more files cannot be renamed…</string>
+    <string name="paste_here">paste here</string>
 
     <string name="action_settings">Settings</string>
 

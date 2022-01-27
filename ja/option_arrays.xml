@@ -43,6 +43,11 @@
         <item>画面下部1/2</item>
     </string-array>
 
+    <string-array name="long_press_gesture_action_options">
+        <item>高速再生</item>
+        <item>低速再生</item>
+    </string-array>
+
     <string-array name="mute_play_options">
         <item>しない</item>
         <item>保護されたコンテンツのみ</item>
