@@ -122,7 +122,7 @@
     <string name="delete_empty_folders">空のフォルダを削除</string>
     <string name="delete_empty_folders_confirm">現在のディレクトリの空のフォルダを削除しますか？</string>
 
-    <string name="no_folder_blocked_notice">現在ブロックされているフォルダはありません。フォルダを除外するには、ギャラリーを開いてアイテムがパスでグループ化されていることを確認し、フォルダのタイトルを長押ししてブロックボタンをタップしてください。</string>
+    <string name="no_folder_blocked_notice">現在ブロックされているフォルダはありません。\n\nフォルダを除外するには、ギャラリーを開いてアイテムがパスでグループ化されていることを確認し、フォルダのタイトルを長押ししてブロックボタンをタップしてください。</string>
     <string name="block_folder_path">ブロックされたパス</string>
     <string name="block_selected_folders">選択したフォルダをブロックする</string>
     <string name="save_modified_path">変更されたパスを保存</string>
