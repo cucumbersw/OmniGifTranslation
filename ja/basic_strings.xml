@@ -35,7 +35,7 @@
     <string name="paste_in_single_folder">選択したアイテムを貼り付けたいフォルダに入ってください。</string>
     <string name="delete_file_fail">一つまたは複数のファイルを削除できません。</string>
     <string name="rename_file_failed">一つまたは複数のファイルをリネームできません。</string>
-    <string name="paste_here">ここに貼り付けます</string>
+    <string name="paste_here">ここに貼り付け</string>
 
 
     <string name="action_settings">設定</string>

@@ -40,7 +40,9 @@
     <string name="pref_extended_gesture_summ">Controlling gestures for adjusting brightness, volume, speed and media progress</string>
     <string name="pref_extended_gesture">Extended gesture control</string>
     <string name="pref_progress_control_gesture_area">Gesture area for progress control</string>
-    <string name="pref_long_press_gesture_action">Long press gesture action</string>
+    <string name="pref_keep_long_press_speed_change">Keep speed value changed by long press gesture</string>
+    <string name="pref_keep_long_press_speed_change_summ_on">Keep changed speed value after finger up</string>
+    <string name="pref_keep_long_press_speed_change_summ_off">Revert to original speed after finger up</string>
     <string name="pref_show_gesture_tutorial">Extended gesture tutorial</string>
     <string name="pref_show_gesture_tutorial_summ">Show how to use gesture to adjust brightness, volume, speed and progress on next playback</string>
 
