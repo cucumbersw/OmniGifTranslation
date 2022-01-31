@@ -40,7 +40,9 @@
     <string name="pref_extended_gesture_summ">明るさ、音量、メディアの再生位置、速度を調整する為にジェスチャーで制御する</string>
     <string name="pref_extended_gesture">拡張ジェスチャーコントロール</string>
     <string name="pref_progress_control_gesture_area">再生位置コントロールの為のジェスチャー範囲</string>
-    <string name="pref_long_press_gesture_action">長押しジェスチャー機能</string>
+    <string name="pref_keep_long_press_speed_change">長押しジェスチャーにより変更した速度の値を保持</string>
+    <string name="pref_keep_long_press_speed_change_summ_on">指を離すと変更した速度を保持します</string>
+    <string name="pref_keep_long_press_speed_change_summ_off">指を離すと元の速度に戻ります</string>
     <string name="pref_show_gesture_tutorial">拡張ジェスチャーチュートリアル</string>
     <string name="pref_show_gesture_tutorial_summ">明るさ、音量、再生位置、速度を調整する為のジェスチャーの使い方を表示します</string>
 

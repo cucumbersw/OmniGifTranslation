@@ -43,11 +43,6 @@
         <item>Bottom 1/2 of the screen</item>
     </string-array>
 
-    <string-array name="long_press_gesture_action_options">
-        <item>Fast play</item>
-        <item>Slow motion</item>
-    </string-array>
-
     <string-array name="mute_play_options">
         <item>Never</item>
         <item>Protected contents only</item>
